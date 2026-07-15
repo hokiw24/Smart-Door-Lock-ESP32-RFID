@@ -174,9 +174,8 @@ Add screenshots of:
 - Add RFID Card
   <img width="1349" height="641" alt="Screenshot 2026-07-09 135902" src="https://github.com/user-attachments/assets/c36c1264-ce0e-4f54-b5d4-5595b98fd19d" />
 
-- Hardware Prototype
-<img width="1359" height="648" alt="Screenshot 2026-07-09 135943" src="https://github.com/user-attachments/assets/f4ac6664-2a1b-4899-829f-6f08b9d918b6" />
-
+- Setting
+<img width="1360" height="651" alt="image" src="https://github.com/user-attachments/assets/f8e6d244-be14-4ca4-af2a-3d07c76ed4a6" />
 
 ---
 

@@ -163,13 +163,13 @@ String serverName = "http://YOUR_IP/smartdoor/save_log.php";
 Add screenshots of:
 
 - Dashboard
-  <img width="1362" height="652" alt="Screenshot 2026-07-09 135800" src="https://github.com/user-attachments/assets/1e333628-d819-4863-ba99-3af884363710" />
+  <img width="1357" height="652" alt="image" src="https://github.com/user-attachments/assets/3407139c-b7dd-4e03-a910-d7a5ddd47490" />
   
 - RFID User Management
 <img width="1362" height="643" alt="Screenshot 2026-07-09 135834" src="https://github.com/user-attachments/assets/8ef69c1c-db35-4fc1-8eac-68ed380847d0" />
 
 - Access Log
-  <img width="1360" height="652" alt="Screenshot 2026-07-09 135849" src="https://github.com/user-attachments/assets/eaff9ee0-0625-4432-9da7-4b5d1119dc5e" />
+  <img width="1360" height="653" alt="image" src="https://github.com/user-attachments/assets/efe9dbb0-b9d2-4d4c-b6e4-8a1cfdc8d28c" />
 
 - Add RFID Card
   <img width="1349" height="641" alt="Screenshot 2026-07-09 135902" src="https://github.com/user-attachments/assets/c36c1264-ce0e-4f54-b5d4-5595b98fd19d" />

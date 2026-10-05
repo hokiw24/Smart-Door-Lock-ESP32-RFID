@@ -1,25 +1,25 @@
-# 🔐 Smart Door Lock ESP32 RFID
+#  Smart Door Lock ESP32 RFID
 
 A Smart Door Lock system based on **ESP32**, **RFID RC522**, **PHP**, and **MySQL** with a real-time web dashboard for user management and access monitoring.
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔑 RFID card authentication
-- 🌐 Real-time web dashboard
-- 👥 RFID user management (Add, Edit, Delete)
-- 📜 Access history logging
-- 🔒 Servo motor door lock
-- 📟 LCD I2C status display
-- 🔊 Buzzer notification
-- 📊 Dashboard statistics
-- 🗄️ MySQL database integration
-- 📡 ESP32 communication with PHP via HTTP POST
+-  RFID card authentication
+-  Real-time web dashboard
+-  RFID user management (Add, Edit, Delete)
+-  Access history logging
+-  Servo motor door lock
+-  LCD I2C status display
+-  Buzzer notification
+-  Dashboard statistics
+-  MySQL database integration
+-  ESP32 communication with PHP via HTTP POST
 
 ---
 
-## 🛠 Hardware
+##  Hardware
 
 - ESP32 DevKit V1
 - RFID RC522
@@ -33,7 +33,7 @@ A Smart Door Lock system based on **ESP32**, **RFID RC522**, **PHP**, and **MySQ
 
 ---
 
-## 💻 Software
+##  Software
 
 - Arduino IDE
 - Visual Studio Code
@@ -44,7 +44,7 @@ A Smart Door Lock system based on **ESP32**, **RFID RC522**, **PHP**, and **MySQ
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Smart-Door-Lock-ESP32-RFID
@@ -72,7 +72,7 @@ Smart-Door-Lock-ESP32-RFID
 
 ---
 
-## ⚡ Wiring
+##  Wiring
 
 ### RFID RC522
 
@@ -124,7 +124,7 @@ using **phpMyAdmin**.
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. Install XAMPP.
 2. Copy the **Web** folder into:
@@ -158,7 +158,7 @@ String serverName = "http://YOUR_IP/smartdoor/save_log.php";
 
 ---
 
-## 📷 Screenshots
+##  Screenshots
 
 Add screenshots of:
 
@@ -179,13 +179,13 @@ Add screenshots of:
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 This project aims to develop an IoT-based smart door lock system using ESP32 and RFID technology. The system authenticates RFID cards, controls a servo door lock, records access history into a MySQL database, and provides a real-time web dashboard for monitoring and user management.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Hoki Wibowo**
 
@@ -195,6 +195,6 @@ Universitas Negeri Jakarta
 
 ---
 
-## 📄 License
+##  License
 
 This project is developed for educational and research purposes.
